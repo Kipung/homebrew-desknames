@@ -3,8 +3,7 @@
 Project-maintained Homebrew cask for [DeskNames](https://github.com/Kipung/DeskNames), a native macOS utility for named desktops, visual pane layouts, and window arrangements.
 
 ```sh
-brew tap Kipung/desknames
-brew install --cask desknames
+brew install --cask kipung/desknames/desknames
 ```
 
 Apple Silicon only; macOS 14 or later. **This is an unnotarized preview**, not an official Homebrew/homebrew-cask listing. Review the [installation notes](https://github.com/Kipung/DeskNames#install) before installing. macOS may require first-launch approval, and window management requires Accessibility permission. No security protections are disabled by this cask.

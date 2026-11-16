@@ -1,6 +1,6 @@
 cask "desknames" do
-  version "0.7.0"
-  sha256 "5f3d425ec27a3e0ed46aeb189c6298cec7e78697b5fba384359775a57cc0d7ad"
+  version "0.8.0"
+  sha256 "30a1003f00be211a73075d6aa4cd5131fbca6b2c5e9947f6eede8b3d54888ca2"
 
   url "https://github.com/Kipung/DeskNames/releases/download/v#{version}/DeskNames-#{version}-arm64.zip"
   name "DeskNames"
